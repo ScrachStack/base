@@ -16,10 +16,10 @@
         ]
     },
     "moneywash": {
-        "version": "6.2",
-        "description": "Update In momento",
+        "version": "6.3",
+        "description": "Need Support Join https://discord.gg/cfxdev",
         "changelog": [
-            "Fixed Error Now Uses Marked Bills",
+            "Fixed Error Now Uses Marked Bills & More than one location & tax for each location support.",
             "Reworked Code"
         ]
     }
