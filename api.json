@@ -1,1 +1,26 @@
-
+{
+    "drugs": {
+        "version": "1.0",
+        "description": "Thanks for purchasing!",
+        "changelog": [
+            "Initial release",
+            "Added Drug Dealer Feature"
+        ]
+    },
+    "pedmenu": {
+        "version": "1.0",
+        "description": "Thanks for purchasing!",
+        "changelog": [
+            "Added new features",
+            "Bug fixes"
+        ]
+    },
+    "moneywash": {
+        "version": "6.2",
+        "description": "Update In momento",
+        "changelog": [
+            "Fixed Error Now Uses Marked Bills",
+            "Reworked Code"
+        ]
+    }
+}
