@@ -23,6 +23,14 @@
 
         ]
     },
+        "RedTrainer": {
+        "version": "1.0",
+        "description": "Need Support Join https://discord.gg/cfxdev!",
+        "changelog": [
+            "Pre Release.",
+
+        ]
+    },
     "moneywash": {
         "version": "6.3",
         "description": "Need Support Join https://discord.gg/cfxdev",
