@@ -16,10 +16,10 @@
         ]
     },
         "bankrobbery": {
-        "version": "1.0",
+        "version": "1.5",
         "description": "Need Support Join https://discord.gg/cfxdev!",
         "changelog": [
-            "Release.",
+            "Added Item Requirement inside config.lua also sends a message to the police if they have the job :).",
 
         ]
     },
