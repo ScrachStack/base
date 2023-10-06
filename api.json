@@ -24,11 +24,11 @@
         ]
     },
         "RedTrainer": {
-        "version": "1.0",
+        "version": "1.5",
         "description": "Need Support Join https://discord.gg/cfxdev!",
         "changelog": [
-            "Pre Release.",
-
+            "Fixed Weapon Array Config.",
+            "Added Keybind Support",
         ]
     },
     "moneywash": {
