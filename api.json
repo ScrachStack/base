@@ -16,10 +16,10 @@
         ]
     },
        "moonshine": {
-        "version": "1.0",
+        "version": "1.5",
         "description": "Need support join https://discord.gg/cfxdev!",
         "changelog": [
-            "Release",
+            "Updated now when brewing you can fail",
       
         ]
     },
