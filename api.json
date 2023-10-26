@@ -16,11 +16,11 @@
         ]
     },
        "moonshine": {
-        "version": "2.5",
+        "version": "3.0",
         "description": "Need support join https://discord.gg/cfxdev!",
         "changelog": [
             "Updated now when brewing you can fail",
-            "Updated now you add UsableItems In Config.https://github.com/Zaps6000/zaps_moonshine/releases/tag/v2.5"
+            "Updated now you add UsableItems In Config."
       
         ]
     },
