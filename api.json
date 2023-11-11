@@ -16,11 +16,10 @@
         ]
     },
     "anticheat": {
-        "version": "1.0",
-        "description": "Still In beta thanks for downloading discord.gg/cfxdev!",
+        "version": "1.5.0",
+        "description": "Thanks for downloading discord.gg/cfxdev!",
         "changelog": [
-            "Added Boom Boom Deak",
-            "Added Menu Texture deak"
+            "Added kick logs",
         ]
     },
        "moonshine": {
