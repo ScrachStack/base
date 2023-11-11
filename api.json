@@ -16,11 +16,13 @@
         ]
     },
     "anticheat": {
-        "version": "1.5.1",
+        "version": "1.5.2",
         "description": "Thanks for downloading discord.gg/cfxdev!",
         "changelog": [
             "Added kick logs 1.5.0",
-            "Added anti superjump 1.5.1"
+            "Added anti superjump 1.5.1",
+            "Fixed Syantex Errors1.5.2",
+            "Cleaned Client Side Up 1.5.2"
         ]
     },
        "moonshine": {
