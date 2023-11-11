@@ -22,7 +22,8 @@
             "Added kick logs 1.5.0",
             "Added anti superjump 1.5.1",
             "Fixed Syantex Errors1.5.2",
-            "Cleaned Client Side Up 1.5.2"
+            "Cleaned Client Side Up 1.5.2",
+            "Fixed Resource Spam on start 1.5.3"
         ]
     },
        "moonshine": {
