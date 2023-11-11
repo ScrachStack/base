@@ -16,7 +16,7 @@
         ]
     },
     "anticheat": {
-        "version": "1.5.2",
+        "version": "1.5.3",
         "description": "Thanks for downloading discord.gg/cfxdev!",
         "changelog": [
             "Added kick logs 1.5.0",
