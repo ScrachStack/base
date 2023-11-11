@@ -61,11 +61,12 @@
         ]
     },
     "moneywash": {
-        "version": "6.3",
+        "version": "6.4",
         "description": "Need Support Join https://discord.gg/cfxdev",
         "changelog": [
             "Fixed Error Now Uses Marked Bills & More than one location & tax for each location support.",
-            "Reworked Code"
+            "Reworked Code",
+            "(6.4) Fixed issue where keybind would cause spam"
         ]
     }
 }
