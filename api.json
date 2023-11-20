@@ -16,13 +16,14 @@
         ]
     },
     "anticheat": {
-        "version": "1.5.6",
+        "version": "1.5.7",
         "description": "Thanks for downloading discord.gg/cfxdev!",
         "changelog": [
             "Added anti taze & specating is standalone the esx/qb part is for anti taze (ESX/QB) Auto Selects Framework 1.5.4",
             "Added noclip & godmode deak 1.5.5",
             "Added IP, Steam Hex, License to logs (Can be disabled) 1.5.6",
-            "Added Kick Command 1.5.6"
+            "Added Kick Command 1.5.6",
+            "Fixed Superjump Bypass 1.5.7"
         ]
     },
        "moonshine": {
