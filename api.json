@@ -9,6 +9,14 @@
     },
     "pedmenu": {
         "version": "1.0",
+        "description": "Thanks for downloading!",
+        "changelog": [
+            " ",
+         
+        ]
+    },
+     "fraud": {
+        "version": "1.0",
         "description": "Thanks for purchasing!",
         "changelog": [
             "Added new features",
