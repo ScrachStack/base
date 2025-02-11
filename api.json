@@ -1,7 +1,15 @@
 {
+    "bus-stops": {
+        "version": "1.0.0",
+        "description": "Script where players can pay to travel",
+        "changelog": [
+            "Initial release"
+        ]
+    },
+
     "drugs": {
         "version": "1.0",
-        "description": "Thanks for purchasing!",
+        "description": "",
         "changelog": [
             "Initial release",
             "Added Drug Dealer Feature"
@@ -9,15 +17,15 @@
     },
     "pedmenu": {
         "version": "1.0",
-        "description": "Thanks for downloading!",
+        "description": "Discounted.",
         "changelog": [
-            " ",
+            
          
         ]
     },
      "fraud": {
         "version": "1.0",
-        "description": "Thanks for purchasing!",
+        "description": "Discounted.",
         "changelog": [
             "Added new features",
             "Bug fixes"
@@ -25,7 +33,7 @@
     },
     "anticheat": {
         "version": "1.5.7",
-        "description": "Thanks for downloading discord.gg/cfxdev!",
+        "description": "Thanks for downloading https://discord.gg/Qpr8EzFJhf!",
         "changelog": [
             "Added anti taze & specating is standalone the esx/qb part is for anti taze (ESX/QB) Auto Selects Framework 1.5.4",
             "Added noclip & godmode deak 1.5.5",
@@ -36,7 +44,7 @@
     },
        "moonshine": {
         "version": "3.0",
-        "description": "Need support join https://discord.gg/cfxdev!",
+        "description": "Need support join https://discord.gg/Qpr8EzFJhf!",
         "changelog": [
             "Updated now when brewing you can fail",
             "Updated now you add UsableItems In Config."
@@ -45,27 +53,27 @@
     },
     "esxpayday": {
         "version": "1.0",
-        "description": "Need Support Join https://discord.gg/cfxdev!",
+        "description": "Need Support Join https://discord.gg/Qpr8EzFJhf!",
         "changelog": [
-            "Release",
+            "Release"
 
         ]
     },
         "bankrobbery": {
         "version": "1.5",
-        "description": "Need Support Join https://discord.gg/cfxdev!",
+        "description": "Need Support Join https://discord.gg/Qpr8EzFJhf!",
         "changelog": [
-            "Added Item Requirement inside config.lua also sends a message to the police if they have the job :).",
+            "Added Item Requirement inside config.lua also sends a message to the police if they have the job :)."
 
         ]
     },
         "RedTrainer": {
         "version": "2.0",
-        "description": "Need Support Join https://discord.gg/cfxdev!",
+        "description": "Need Support Join https://discord.gg/Qpr8EzFJhf!",
         "changelog": [
             "Fixed Weapon Array Config.",
             "Added Keybind Support",
-            "Fixed Weapon List (Now Working.)",
+            "Fixed Weapon List (Now Working.)"
         ]
     },
     "moneywash": {
