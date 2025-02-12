@@ -1,6 +1,6 @@
 {
     "bus-stops": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "Script where players can pay to travel https://discord.gg/Qpr8EzFJhf",
         "changelog": [
             "Initial release",
